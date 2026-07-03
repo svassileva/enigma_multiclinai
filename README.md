@@ -1,10 +1,13 @@
 # MultiClinNER enigma
 
 Task: https://temu.bsc.es/MultiClinAI/
+
 Train Data v1.1: https://zenodo.org/records/18772832
 
 Fine-tuned Models:
-https://huggingface.co/collections/SU-FMI-AI/enigma-multiclinai
+
+- https://huggingface.co/collections/SU-FMI-AI/enigma-multiclinai
+- https://huggingface.co/collections/svassileva/enigma-multiclinai
 
 ## Citation
 
