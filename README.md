@@ -12,6 +12,9 @@ Other repositories:
 
 - https://github.com/TeogopK/MultiClinAI-Czech
 
+# Poster
+<img width="724" height="1024" alt="1783330316303-3b57efa7-31bf-44f0-a000-56106a0501db_1" src="https://github.com/user-attachments/assets/472b2634-5623-48a7-88c3-bdc9c3a969ba" />
+
 ## Citation
 
 Vassileva, S., Ilieva, P., Kostadinov, T., Petkova, M., Manchevski, D., Doynov, V., Koychev, I., & Boytcheva, S. (2026, July). Enigma at# SMM4H–HeaRD 2026: Leveraging Multilingual Pre-trained Models for Clinical Named Entity Recognition. In The 11th Social Media Mining for Health Research and Applications (SMM4H-HeaRD 2026) Workshop and Shared Tasks (p. 113).
