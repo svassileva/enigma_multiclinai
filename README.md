@@ -13,7 +13,7 @@ Other repositories:
 - https://github.com/TeogopK/MultiClinAI-Czech
 
 # Poster
-<img width="724" height="1024" alt="1783330316303-3b57efa7-31bf-44f0-a000-56106a0501db_1" src="https://github.com/user-attachments/assets/472b2634-5623-48a7-88c3-bdc9c3a969ba" />
+<img width="724" height="1024" alt="1783672063838-02581aa3-3591-48ac-9bae-a9bcb144589a_1" src="https://github.com/user-attachments/assets/83ff2d6d-3a33-48ae-835e-7134df7c8b0b" />
 
 ## Citation
 
